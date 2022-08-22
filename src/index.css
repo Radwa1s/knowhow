@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Benzin-Bold";
+    src: local("Benzin-Bold"),
+     url( "./pages/home/fonts/Benzin-Bold.ttf") format("truetype");
+    font-weight: bold;
+    }

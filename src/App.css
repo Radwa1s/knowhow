@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    background-image:url('./images/Group 7.png');
+    height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height:100vh
+} */
